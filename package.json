@@ -54,8 +54,7 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.6.3",
     "typescript": "^3.9.10",
-    "@types/node": "^20.14.11",
-    "ts-jest": "^29.2.3"
+    "@types/node": "^20.14.11"
   },
   "dependencies": {
     "@builderbot/bot": "^1.1.7",
